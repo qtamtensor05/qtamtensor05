@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Hứa Quang Tâm 👋
 
 ### 📚 Kệ sách của tôi
