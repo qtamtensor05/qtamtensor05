@@ -9,11 +9,27 @@
 </div>
 
 ---
+### Tech Stack
 
-### About Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,linux,git,aws,gcp&perline=8" />
+</p>
 
-```text
-> Focused on practical AI systems
-> Specializing in Retrieval-Augmented Generation (RAG)
-> Experienced in LLM Fine-tuning & Optimization
-> Bridging research and production-ready solutions
+<br>
+
+<!-- AI / LLM Core -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM" />
+  <img src="https://img.shields.io/badge/RAG-0D9488?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Fine--tuning-F97316?style=for-the-badge&logo=pytorch&logoColor=white" alt="Fine-tuning" />
+</p>
+
+<!-- Tools -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Transformers-F59E0B?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
